@@ -1,0 +1,21 @@
+{
+  "name": "@johnhom/eslint-config",
+  "version": "0.0.1",
+  "author": "johnhom",
+  "main": "index.js",
+  "files": [
+    "*.js"
+  ],
+  "keywords": [
+    "eslint-config"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  },
+  "dependencies": {
+    "@johnhom/eslint-config-basic": "workspace:*"
+  }
+}
