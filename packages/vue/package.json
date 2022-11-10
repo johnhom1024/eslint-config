@@ -1,21 +1,22 @@
 {
-  "name": "@johnhom/eslint-config",
+  "name": "@johnhom/eslint-config-vue",
   "version": "0.1.0",
   "author": "johnhom",
   "main": "index.js",
-  "files": [
-    "*.js"
-  ],
   "keywords": [
     "eslint-config"
+  ],
+  "files": [
+    "index.js"
   ],
   "peerDependencies": {
     "eslint": ">=7.4.0"
   },
+  "dependencies": {
+    "@johnhom/eslint-config-ts": "workspace:*",
+    "eslint-plugin-vue": "^9.7.0"
+  },
   "devDependencies": {
     "eslint": "^8.23.0"
-  },
-  "dependencies": {
-    "@johnhom/eslint-config-vue": "workspace:*"
   }
 }
