@@ -33,5 +33,5 @@ pnpm add -D eslint @johnhom/eslint-config
 
 ## ToDo
 
-- [ ] 引入对`vue`文件的支持
-- [ ] 引入对`.ts`文件的支持
+- [x] 引入对`vue`文件的支持
+- [x] 引入对`.ts`文件的支持
