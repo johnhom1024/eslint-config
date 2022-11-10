@@ -8,8 +8,10 @@
     "version-packages": "changeset version",
     "release": "changeset publish"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "anthony",
   "license": "ISC",
   "devDependencies": {
     "@changesets/cli": "^2.25.1",
