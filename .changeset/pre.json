@@ -7,5 +7,7 @@
     "@johnhom/eslint-config-ts": "0.2.0",
     "@johnhom/eslint-config-vue": "0.2.0"
   },
-  "changesets": []
+  "changesets": [
+    "three-wasps-remember"
+  ]
 }
