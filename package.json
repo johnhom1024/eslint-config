@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "changeset": "changeset",
-    "version-packages": "changeset version",
+    "cv": "changeset version",
     "release": "changeset publish",
     "enter:beta": "changeset pre enter beta"
   },
