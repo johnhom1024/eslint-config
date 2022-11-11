@@ -1,5 +1,16 @@
 # @johnhom/eslint-config
 
+## 0.3.0-beta.0
+
+### Minor Changes
+
+- 20cac5c: ts 新增 airbnb-typescript 的规则，优化基础规则中忽略的文件类型
+
+### Patch Changes
+
+- Updated dependencies [20cac5c]
+  - @johnhom/eslint-config-vue@0.3.0-beta.0
+
 ## 0.2.0
 
 ### Minor Changes
