@@ -3,6 +3,7 @@ module.exports = {
     '@johnhom/eslint-config-basic',
     'plugin:import/typescript',
     'plugin:@typescript-eslint/recommended',
+    'airbnb-typescript',
   ],
   settings: {
     'import/resolver': {
