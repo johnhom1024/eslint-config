@@ -6,7 +6,8 @@
   "scripts": {
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "changeset publish"
+    "release": "changeset publish",
+    "enter:beta": "changeset pre enter beta"
   },
   "keywords": [
     "eslint-config"
