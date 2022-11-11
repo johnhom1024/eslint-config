@@ -19,6 +19,13 @@ module.exports = {
     '!.vscode',
   ],
   rules: {
-    'import/prefer-default-export': 'off'
+    // import
+    'import/prefer-default-export': 'off',
+    'import/order': 'error',
+    'import/first': 'error',
+    'import/no-mutable-exports': 'error',
+    'import/no-unresolved': 'off',
+    'import/no-absolute-path': 'off',
+    "import/extensions": 'off'
   }
 }
