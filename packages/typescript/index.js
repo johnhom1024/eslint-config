@@ -1,15 +1,10 @@
 module.exports = {
   extends: [
     '@johnhom/eslint-config-basic',
-    'airbnb-typescript',
+    'airbnb-typescript/base',
     'plugin:import/typescript',
     'plugin:@typescript-eslint/recommended',
   ],
-  settings: {
-    'import/resolver': {
-      node: { extensions: ['.js', '.jsx', '.mjs', '.ts', '.tsx', '.d.ts'] },
-    },
-  },
   rules: {
     'no-unused-vars': 'off',
     '@typescript-eslint/no-unused-vars': ['warn', { argsIgnorePattern: '^_' }],
