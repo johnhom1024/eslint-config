@@ -1,5 +1,13 @@
 # @johnhom/eslint-config-vue
 
+## 0.3.0-beta.1
+
+### Patch Changes
+
+- d25aa82: 修复 webpack 编译 ts 文件时的 parserOptions 选项缺失问题
+- Updated dependencies [d25aa82]
+  - @johnhom/eslint-config-ts@0.3.0-beta.1
+
 ## 0.3.0-beta.0
 
 ### Minor Changes
