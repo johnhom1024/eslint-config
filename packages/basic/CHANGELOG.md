@@ -1,5 +1,11 @@
 # @johnhom/eslint-config-basic
 
+## 0.3.0-beta.2
+
+### Patch Changes
+
+- 18c6cc0: 修复错误，更新规则
+
 ## 0.3.0-beta.1
 
 ### Patch Changes
