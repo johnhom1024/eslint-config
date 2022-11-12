@@ -1,5 +1,11 @@
 # @johnhom/eslint-config-basic
 
+## 0.3.0-beta.4
+
+### Patch Changes
+
+- 5e31598: 更新 basic 的依赖
+
 ## 0.3.0-beta.3
 
 ### Patch Changes

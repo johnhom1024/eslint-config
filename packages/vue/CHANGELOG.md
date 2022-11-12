@@ -1,5 +1,13 @@
 # @johnhom/eslint-config-vue
 
+## 0.3.0-beta.4
+
+### Patch Changes
+
+- 5e31598: 更新 basic 的依赖
+- Updated dependencies [5e31598]
+  - @johnhom/eslint-config-ts@0.3.0-beta.4
+
 ## 0.3.0-beta.3
 
 ### Patch Changes
