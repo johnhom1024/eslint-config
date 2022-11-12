@@ -10,11 +10,14 @@
     "index.js"
   ],
   "peerDependencies": {
-    "eslint": ">=7.4.0"
+    "eslint": ">=7.4.0",
+    "typescript": "*"
   },
   "dependencies": {
     "@johnhom/eslint-config-ts": "workspace:*",
-    "eslint-plugin-vue": "^9.7.0"
+    "@vue/eslint-config-typescript": "^11.0.2",
+    "eslint-plugin-vue": "^9.7.0",
+    "vue-eslint-parser": "^9.1.0"
   },
   "devDependencies": {
     "eslint": "^8.23.0"

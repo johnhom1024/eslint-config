@@ -1,5 +1,12 @@
 module.exports = {
-  extends: ["airbnb-base"],
+  env: {
+    es6: true,
+    browser: true,
+    node: true,
+  },
+  extends: [
+    'eslint:recommended'
+  ],
   ignorePatterns: [
     '*.min.*',
     '*.d.ts',
@@ -19,13 +26,6 @@ module.exports = {
     '!.vscode',
   ],
   rules: {
-    // import
-    'import/prefer-default-export': 'off',
-    'import/order': 'error',
-    'import/first': 'error',
-    'import/no-mutable-exports': 'error',
-    'import/no-unresolved': 'off',
-    'import/no-absolute-path': 'off',
-    "import/extensions": 'off'
+    'no-unused-vars': 'off'
   }
 }
