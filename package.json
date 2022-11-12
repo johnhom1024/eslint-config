@@ -1,19 +1,22 @@
 {
   "name": "@johnhom/eslint-config-monorepo",
-  "version": "0.2.0",
+  "version": "0.3.0-beta.4",
   "description": "",
+  "author": "anthony",
+  "license": "ISC",
   "main": "index.js",
+  "keywords": [
+    "eslint-config"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com"
+  },
   "scripts": {
     "changeset": "changeset",
     "cv": "changeset version",
     "release": "changeset publish",
     "enter:beta": "changeset pre enter beta"
   },
-  "keywords": [
-    "eslint-config"
-  ],
-  "author": "anthony",
-  "license": "ISC",
   "devDependencies": {
     "@changesets/cli": "^2.25.1",
     "eslint": "^8.26.0",
