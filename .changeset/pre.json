@@ -8,6 +8,7 @@
     "@johnhom/eslint-config-vue": "0.2.0"
   },
   "changesets": [
+    "eighty-plums-fetch",
     "fuzzy-pigs-tease",
     "kind-turkeys-cry",
     "three-wasps-remember",
