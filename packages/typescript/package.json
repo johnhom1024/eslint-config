@@ -1,6 +1,6 @@
 {
   "name": "@johnhom/eslint-config-ts",
-  "version": "0.3.0-beta.4",
+  "version": "0.3.0",
   "author": "johnhom",
   "main": "index.js",
   "files": [
