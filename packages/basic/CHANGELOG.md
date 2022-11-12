@@ -1,5 +1,11 @@
 # @johnhom/eslint-config-basic
 
+## 0.3.0-beta.3
+
+### Patch Changes
+
+- 96ce855: 重构 basic 和 ts 规则的引入
+
 ## 0.3.0-beta.2
 
 ### Patch Changes

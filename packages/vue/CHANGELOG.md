@@ -1,5 +1,13 @@
 # @johnhom/eslint-config-vue
 
+## 0.3.0-beta.3
+
+### Patch Changes
+
+- 96ce855: 重构 basic 和 ts 规则的引入
+- Updated dependencies [96ce855]
+  - @johnhom/eslint-config-ts@0.3.0-beta.3
+
 ## 0.3.0-beta.2
 
 ### Patch Changes
