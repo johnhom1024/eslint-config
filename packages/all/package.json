@@ -10,7 +10,8 @@
     "eslint-config"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.com"
+    "registry": "https://registry.npmjs.com",
+    "access": "public"
   },
   "peerDependencies": {
     "eslint": ">=7.4.0"
