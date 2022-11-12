@@ -1,11 +1,18 @@
 module.exports = {
+  parserOptions: {
+    ecmaVersion: 2022,
+    ecmaFeatures: {
+      jsx: true,
+    },
+    sourceType: 'module',
+  },
   env: {
     es6: true,
     browser: true,
     node: true,
   },
   extends: [
-    'eslint:recommended'
+    'eslint:recommended',
   ],
   ignorePatterns: [
     '*.min.*',
