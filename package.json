@@ -8,9 +8,6 @@
   "keywords": [
     "eslint-config"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npmjs.com"
-  },
   "scripts": {
     "changeset": "changeset",
     "cv": "changeset version",

@@ -6,6 +6,9 @@
   "files": [
     "index.js"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com"
+  },
   "peerDependencies": {
     "eslint": ">=7.4.0",
     "typescript": ">=3.9"

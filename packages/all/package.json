@@ -9,6 +9,9 @@
   "keywords": [
     "eslint-config"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com"
+  },
   "peerDependencies": {
     "eslint": ">=7.4.0"
   },
