@@ -1,6 +1,6 @@
 # @johnhom/eslint-config
 
-对`airbnb-base`的一个封装
+* 包含了`.js`, `.ts`, `.vue`文件的规则检测。
 
 ## 使用
 
