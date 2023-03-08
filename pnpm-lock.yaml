@@ -38,9 +38,9 @@ importers:
       '@johnhom/eslint-config-basic': link:../basic
       '@typescript-eslint/eslint-plugin': 5.42.1_axfgkka443lkqhdlqbxq67a2rq
       '@typescript-eslint/parser': 5.42.1_wyqvi574yv7oiwfeinomdzmc3m
+      typescript: 4.8.4
     devDependencies:
       eslint: 8.26.0
-      typescript: 4.8.4
 
   packages/vue:
     specifiers:
