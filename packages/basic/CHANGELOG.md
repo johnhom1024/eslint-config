@@ -1,5 +1,11 @@
 # @johnhom/eslint-config-basic
 
+## 0.3.1
+
+### Patch Changes
+
+- 9fc54bf: 更新 eslint-config-ts 的 typescript 依赖
+
 ## 0.3.0
 
 ### Minor Changes
